@@ -1,0 +1,1 @@
+function x = gbToKb(n);%Limpio los parametros%%  clc%  clear allx = n * 1048576endfunction

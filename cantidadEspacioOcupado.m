@@ -1,0 +1,1 @@
+function ocupado = cantidadEspacioOcupado(t);%Limpio los parametros%%  clc%  clear alla = (2*2)^tb = 512*100*tc = mbToKb(2)ocupado = a + b + c%if(ocupado > gbToKb(3))%  ocupado = gbToKb(3)%endifendfunction

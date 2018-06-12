@@ -1,0 +1,1 @@
+function x = mbToKb(n);%Limpio los parametros%%  clc%  clear allx = n * 1024endfunction

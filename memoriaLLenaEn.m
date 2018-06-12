@@ -1,0 +1,1 @@
+function tiempo = memoriaLLenaEn();%Limpio los parametros%%  clc%  clear all%Hago las sumatorias correspondientesx = 0t = 0while (x<gbToKb(3))x = cantidadEspacioOcupado(t);t++endwhiletiempo = tendfunction
